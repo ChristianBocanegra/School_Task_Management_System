@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\bin\Debug\Lab2And3.exe.config
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\bin\Debug\Lab2And3.exe
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\bin\Debug\Lab2And3.pdb
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\obj\Debug\Lab2And3.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\obj\Debug\Lab2And3.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\obj\Debug\Lab2And3.exe
+C:\Users\chris\OneDrive\Documentos\00-Centennial Second Semester\Programming II\Lab_2_and_3\Lab2And3\Lab2And3\obj\Debug\Lab2And3.pdb
